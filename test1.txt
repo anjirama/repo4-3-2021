@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC97-A106
+
+ Directory of C:\Users\anjir\OneDrive\Desktop\myproject
+
+04-03-2021  15:13    <DIR>          .
+04-03-2021  15:13    <DIR>          ..
+04-03-2021  15:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  414,270,119,936 bytes free
